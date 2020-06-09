@@ -3,7 +3,7 @@
   <tr>
     <td>
       <h1>Yehui Yang</h1>
-      <p><b> Short BIO </b></p>
+      <p><b> Short BIO: </b></p>
       <p><b>Research and Development Scientist, Artificial Intelligence Group, Baidu, China, present </b></p>
       <p><b>PhD, Institution of Automation, Chinese Academy of Sciences, Beijing, China, 2011-2016</b></p>
       <p><b>Bachelor, Hunan University, Changsha, China, 2007-2011</b></p>
