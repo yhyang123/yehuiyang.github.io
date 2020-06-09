@@ -8,7 +8,7 @@
       <p><b>PhD, Institution of Automation, Chinese Academy of Sciences, Beijing, China, 2011-2016</b></p>
       <p><b>Bachelor, Hunan University, Changsha, China, 2007-2011</b></p>
       <p><b>E-mail：yangyehuisw@126.com</b></p>
-      <a href="/index.html">中文版</a>
+      <a href="/index-zn.html">中文版</a>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
