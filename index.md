@@ -32,3 +32,9 @@ Multi-task Character-Level Attentional Networks for Medical Concept Normalizatio
 - <b>Yehui Yang</b>, Yuan Xie, Wensheng Zhang, Wenrui Hu, Yuanhua Tan: Global Coupled Learning and Local Consistencies Ensuring for sparse-based tracking. Neurocomputing 160: 191-205 (2015)
 - Xin Wang, Yanshuang Ren, <b>Yehui Yang</b>, Wensheng Zhang, Neal N. Xiong: A Weighted Discriminative Dictionary Learning Method for Depression Disorder Classification Using fMRI Data. BDCloud-SocialCom-SustainCom 2016: 618-623.
 - Qingchun Li, Gang Han, Wensheng Zhang, <b>Yehui Yang</b>, Adaptive neuro-fuzzy sliding mode control guidance law with impact angle constraint,  IET Control Theory and Applications 9(14):2115-2123, (2015)
+
+
+### Awards
+- Baidu AI Group Outstanding Technology Pioneers Award, 2018.
+- Baidu Seasonal Star Award, 2018.
+- Baidu Seasonal Star Award, 2017.
