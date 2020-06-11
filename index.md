@@ -20,7 +20,7 @@
 Machine Learning; Deep Learning; Compter Vision; Medical Imaging Analysis
 
 ### Publications
-- Jinghao Niu,<b>Yehui Yang</b>, Siheng Zhang, Zhengya Sun, Wensheng Zhang:
+- Jinghao Niu,<font size="5" face="arial" color="red"><b>Yehui Yang</b></font>, Siheng Zhang, Zhengya Sun, Wensheng Zhang:
 Multi-task Character-Level Attentional Networks for Medical Concept Normalization. Neural Processing Letters 49(3): 1239-1256 (2019)
 - <b>Yehui Yang</b>, Jia Liu, Yanwu Xu, Yan Huang, Lei Wang.A novel lesion detection algorithm based on multi-scale input convolutional neural network model for diabetic retinopathy[j]. Chinese Journal of Experimental Ophthalmology,37(8):624-629,(2019).
 - <b>Yehui Yang</b>, Tao, Li,  Wensi Li, Haishan Wu,  Wei Fan, Wensheng, Zhang, Lesion Detection and Grading of Diabetic Retinopathy via Two-Stages Deep Convolutional Neural Networks. in: <b> MICCAI 2017</b>.  <a href="https://arxiv.org/pdf/1705.00771">[pdf]</a>
